@@ -1,3 +1,5 @@
+## 这是一个h5+vue+vant+rem适配移动端项目模板
+
 # detail
 
 ## Project setup
